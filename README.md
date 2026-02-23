@@ -5,10 +5,10 @@
 | File | Purpose | Assignment Section |
 |---|---|---|
 | `flights_raw.csv` | Your scraped dataset | — |
-| `step1_preprocessing.py` | Clean data, EDA plots | Section 1 (15 marks) |
-| `step2_train_evaluate.py` | Train XGBoost, evaluate | Sections 2+3 (35 marks) |
-| `step3_shap_explainability.py` | SHAP explanation plots | Section 4 (20 marks) |
-| `app.py` | Streamlit web app | Bonus (10 marks) |
+| `step1_preprocessing.py` | Clean data, EDA plots | Section 1  |
+| `step2_train_evaluate.py` | Train XGBoost, evaluate | Sections 2+3  |
+| `step3_shap_explainability.py` | SHAP explanation plots | Section 4  |
+| `app.py` | Streamlit web app |  |
 
 ---
 
